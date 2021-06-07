@@ -1,18 +1,14 @@
-Hello! I'm Italianne 🪐
+   Hello! I'm Italianne 🪐
+   
+• My real name is David, I am fifteen years old. ✨
 
+• I love things related to space and stars
+• I want to study astronomy - astrophysics ☄️ 
 
+• Currently I study programming in the languages: Java, JavaScript, Python 🌙
 
-<!--
-**Italianne/Italianne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Work at: @MagicMoon-Studios 💫
+• Anything that can help you can contact me at:
+       ✸ Discord: "! Italianne#0001" ✸
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✩ "Dreaming under a dark sky is the best battery for the soul." ✩
